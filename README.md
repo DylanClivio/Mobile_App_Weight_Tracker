@@ -27,7 +27,7 @@ Testing was done constantly throughout the development of the code. Testing reve
 
 Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 
-Incorporating the database was fun because it required ensuring that the data the user was inputing worked seamlessly with the functionality of the app. The app had to provide the user with their previously entered information which required presenting the information in a table for the user at the bottom of the data entry screen.
+Incorporating the database was fun because it required ensuring that the data the user was inputting worked seamlessly with the functionality of the app. The app had to provide the user with their previously entered information which required presenting the information in a table for the user at the bottom of the data entry screen.
 
 
 
