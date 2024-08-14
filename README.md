@@ -15,7 +15,7 @@ The app starts with a login screen, there is also a screen to enter the user's w
 
 How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
 
-The coding strategies for the creation of this app involved in-depth planning with a proposal. The app was broken down into modular components that were coded separately and then combined and tested in Android Studio. These are good practices to incoporate in future code development to ensure functional code and minimal set-backs.
+The coding strategies for the creation of this app involved in-depth planning with a proposal. The app was broken down into modular components that were coded separately and then combined and tested in Android Studio. These are good practices to incorporate in future code development to ensure functional code and minimal set-backs.
 
 
 
